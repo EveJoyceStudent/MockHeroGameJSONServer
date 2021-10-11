@@ -1,0 +1,21 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Helloman",
+      "minDice": 0,
+      "maxDice": 6,
+      "maxUses": 4
+    },
+    {
+      "id": 2,
+      "name": "Goodbyewoman",
+      "minDice": 10,
+      "maxDice": 12,
+      "maxUses": 3
+    }
+  ],
+  "profile": {
+    "name": "EveJoyceStudent"
+  }
+}
