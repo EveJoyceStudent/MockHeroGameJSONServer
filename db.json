@@ -15,6 +15,16 @@
       "maxUses": 3
     }
   ],
+  "villains": [
+    {
+      "id": 1,
+      "name": "Badman"
+    },
+    {
+      "id": 2,
+      "name": "Souperman"
+    }
+  ],
   "profile": {
     "name": "EveJoyceStudent"
   }
